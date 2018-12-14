@@ -13,3 +13,14 @@
 ```sh
 $ git clone https://github.com/SridhanyaG/jasmine-feed-reader
 ```
+
+### Starter code used
+```sh
+$ git clone https://github.com/udacity/frontend-nanodegree-feedreader
+```
+
+### Dev references (Jasmine Cheat Sheet)
+```
+https://devhints.io/jasmine
+
+```
